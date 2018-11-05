@@ -2,9 +2,20 @@
 
 Job sharing:
 
-Mobile programming              Front-end developing               Back-end developing              Testing and project management
-Merve Şahin                      Yağmur Ceren Akyol                  Esra Koca                        M. Fatih Kadıoğlu
-Eren Şahin                                                           Egehan 
+Mobile programming             
+Merve Şahin
+Eren Şahin
+
+Front-end developing               
+Yağmur Ceren Akyol
+
+Back-end developing             
+Esra Koca  
+Egehan
+
+Testing and project management
+M. Fatih Kadıoğlu
+                                                            
 
 
 
