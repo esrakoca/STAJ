@@ -13,7 +13,7 @@ Back-end developing
 Esra Koca  
 Egehan
 
-Testing and project management
+Testing and project management                                                                                                            
 M. Fatih Kadıoğlu
                                                             
 
